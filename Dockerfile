@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="check php files"
 LABEL "com.github.actions.icon"="check"
 LABEL "com.github.actions.color"="blue"
 
-LABEL "repository"="http://github.com/oskarstark/php-cs-fixer-ga"
+LABEL "repository"="http://github.com/dchatry/php-cs-fixer-ga"
 LABEL "homepage"="http://github.com/actions"
 LABEL "maintainer"="Oskar Stark <oskarstark@googlemail.com>"
 
