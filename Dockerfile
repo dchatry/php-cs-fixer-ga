@@ -7,7 +7,7 @@ LABEL "com.github.actions.color"="blue"
 
 LABEL "repository"="http://github.com/dchatry/php-cs-fixer-ga"
 LABEL "homepage"="http://github.com/actions"
-LABEL "maintainer"="Oskar Stark <oskarstark@googlemail.com>"
+LABEL "maintainer"="Damien Chatry <dmn.chatry@gmail.com>"
 
 RUN wget https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/download/v2.16.3/php-cs-fixer.phar -O php-cs-fixer \
     && chmod a+x php-cs-fixer \
